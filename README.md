@@ -1,6 +1,8 @@
 # Trading in a Black Box
 
-![Data overview](Figures/TradingBlackBox.svg)
+<p align="center">
+  <img src="Figures/TradingBlackBox.svg">
+</p>
 
 For further details about the experiments and a summary of the results, please refer to [[1]](#1) and [[2]](#2).
 

@@ -1,0 +1,6 @@
+game_id,game_iid,batch_id,status,title,keeps,randomizes,best,full_info,no_info,other_info,own_info,elapsed_time
+253,1,170,Game finished,Full information / Best deal matching,0,0,1,1,0,0,0,1412
+254,2,170,Game finished,Full information / Best deal matching,0,0,1,1,0,0,0,1392
+255,3,170,Game finished,Full information / Best deal matching,0,0,1,1,0,0,0,1367
+256,4,170,Game finished,Full information / Best deal matching,0,0,1,1,0,0,0,1415
+257,5,170,Game finished,Full information / Best deal matching,0,0,1,1,0,0,0,1390

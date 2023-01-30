@@ -8,7 +8,7 @@ For further details about the experiments and a summary of the results, please r
 
 ## References
 <a id="1">[1]</a> 
-B. Ikica, S. Jantschgi, H. H. Nax, D. G. Nuñez‐Duran, B. S. R. Pradelski, _Competitive Market Behavior: Convergence and Asymmetry in the Experimental Double Auction_. _Submitted, available [here](http://dx.doi.org/10.2139/ssrn.3131004)._\
+B. Ikica, S. Jantschgi, H. H. Nax, D. G. Nuñez‐Duran, B. S. R. Pradelski, _Competitive Market Behavior: Convergence and Asymmetry in the Experimental Double Auction_. _To appear in Int. Econ. Rev., available [here](http://dx.doi.org/10.2139/ssrn.3131004)._\
 <a id="2">[2]</a>
 _Competitive market behavior: a large-scale replication and robustness check of the experimental continuous double auction a la V Smith '62, [OSF](https://osf.io/gu62n/)._
 
